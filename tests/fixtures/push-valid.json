@@ -1,0 +1,8 @@
+{
+  "ref": "refs/heads/main",
+  "commits": [
+    { "id": "1111111111111111111111111111111111111111", "message": "[TASK] Add new feature" },
+    { "id": "2222222222222222222222222222222222222222", "message": "[BUGFIX] Fix a bug\n\nLonger description." }
+  ],
+  "repository": { "name": "repo", "owner": { "login": "owner", "name": "owner" } }
+}

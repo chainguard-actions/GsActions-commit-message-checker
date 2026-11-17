@@ -1,0 +1,10 @@
+{
+  "action": "opened",
+  "number": 1,
+  "pull_request": {
+    "number": 1,
+    "title": "bad title without prefix",
+    "body": "[TASK] Description that matches"
+  },
+  "repository": { "name": "repo", "owner": { "login": "owner", "name": "owner" } }
+}
