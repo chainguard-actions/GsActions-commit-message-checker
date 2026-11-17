@@ -1,0 +1,1 @@
+# GsActions-commit-message-checker
